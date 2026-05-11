@@ -4,7 +4,7 @@ This project demonstrates how I designed and implemented a secure Azure access m
 
 In real cloud environments, production resources, logging, security operations and development workloads are usually separated into different accounts or subscriptions. This separation reduces risk, but it also requires a controlled way for security teams, deployment identities and incident responders to access the correct resources.
 
-This lab shows that I understand how to:
+This lab shows that I am learning how to:
 
 - Design secure access across Azure subscriptions
 - Apply least privilege with Azure RBAC
